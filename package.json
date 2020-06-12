@@ -1,7 +1,7 @@
 {
   "name": "react-native-authorize-net-accept",
   "title": "React Native Authorize Net Accept",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Module for Authorize.net AcceptSDK",
   "main": "index.js",
   "files": [
