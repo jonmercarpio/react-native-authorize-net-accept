@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
 
   s.swift_version = '4.2'
   s.dependency "React"
-  s.dependency "AuthorizeNetAccept"
+  s.dependency "AuthorizeNetAccept", "0.5.0"
   # ...
   # s.dependency "..."
 end
